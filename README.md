@@ -3,6 +3,6 @@
 Git : Behind the scene
 
 
-slide link:- https://git-devtalk-amangupta.netlify.app/
+Slide link:- https://git-devtalk-amangupta.netlify.app/
 
 ![img](/talk.gif)
